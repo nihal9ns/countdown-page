@@ -1,6 +1,6 @@
 # Coming Soon
 
-A simple countdown page using HTML, CSS and Vanilla JavaScript.
+A simple coming soon page using HTML, CSS and Vanilla JavaScript.
 
 ### Countdown Page
 
